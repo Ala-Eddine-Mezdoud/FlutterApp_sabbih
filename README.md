@@ -8,6 +8,6 @@
 - Minimal and user-friendly interface.
 
 ## Preview
-![Sabbih App Screenshot](assets/images/one.png)
-![Sabbih App Screenshot](assets/images/two.png)
-![Sabbih App Screenshot](assets/images/three.png)
+<img src="assets/images/one.png" alt="Sabbih App Screenshot" width="300">
+<img src="assets/images/two.png" alt="Sabbih App Screenshot" width="300">
+<img src="assets/images/three.png" alt="Sabbih App Screenshot" width="300">
