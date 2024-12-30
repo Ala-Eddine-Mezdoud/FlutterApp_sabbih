@@ -1,16 +1,13 @@
-# sabbih
+# Sabbih
 
-A new Flutter project.
+**Sabbih** is a Flutter mobile application designed for Muslims to track and calculate the number of times they say istighfar (seeking forgiveness). This app helps in maintaining spiritual discipline and achieving personal goals.
 
-## Getting Started
+## Features
+- Track the number of times istighfar is performed.
+- Reset the counter whenever needed.
+- Minimal and user-friendly interface.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![Sabbih App Screenshot](assets/images/one.png)
+![Sabbih App Screenshot](assets/images/two.png)
+![Sabbih App Screenshot](assets/images/three.png)
